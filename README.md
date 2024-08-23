@@ -1,0 +1,2 @@
+# WwiseBatchSetting
+WwiseBatchSettingTool
